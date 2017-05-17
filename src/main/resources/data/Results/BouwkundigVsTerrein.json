@@ -1,0 +1,560 @@
+[
+  {
+  	Gemaal_Weteringschans_Bouwkundig.ifc-> no. Elements: 405 & Gemaal_Weteringschans_Terrein.ifc-> no. Elements: 215
+  	no. clashes: 69
+  	no. clashes expected(based on navis): 20
+  },
+  
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:749787",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:749788",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:749789",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:749790",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NL_90_grind_3DGS:765371"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:749790",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:751422",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NLRS_23_FL_gewapend beton buiten:758399"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:751422",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:751425",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:NLRS_21_WA_metselwerk_315:1155390"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:NLRS_21_WA_metselwerk_315:1155390"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:752435",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:NLRS_21_WA_metselwerk 500:780213"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:752451",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NL_90_grind_3DGS:765371"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:752451",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:NLRS_21_WA_metselwerk 500:780213"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:752451",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:NLRS_21_WA_metselwerk 500:780213"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NLRS_23_FL_gewapend beton buiten:758399"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NLRS_23_FL_gewapend beton buiten:759102"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NLRS_23_FL_gewapend beton buiten:759228"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NLRS_23_FL_gewapend beton buiten:759640"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NLRS_23_FL_gewapend beton buiten:759697"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NLRS_23_FL_gewapend beton buiten:1020890"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_kalkzandsteen 100_gen:758192",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_kalkzandsteen 100_gen:758196",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_kalkzandsteen 100_gen:758200",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_kalkzandsteen 100_gen:758204",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NL_90_grind_3DGS:765371"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_kalkzandsteen 100_gen:758204",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcMember",
+    "elementName1": "Curtain Wall:21_Merk_A:1150274",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_kalkzandsteen 100_gen:768281",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:768758",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_kalkzandsteen 100_gen:768892",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:783982",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:784176",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:784212",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:784407",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:790382",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:790390",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:814668",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:814701",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:816127",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NL_90_grind_3DGS:765371"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:816127",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_trasraam_45_gen:819278",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_trasraam_45_gen:819470",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NL_90_grind_3DGS:765371"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_trasraam_45_gen:819470",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_trasraam_45_gen:819470",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NLRS_23_NL_planten_bak_beton:1009421"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_trasraam_45_gen:819614",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_trasraam_45_gen:819652",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:NLRS_21_WA_metselwerk 500:780213"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:903792",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:962717",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:962720",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:962723",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:962724",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:962726",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_43_FL_tegelvloer_creme_150x150 20_gen:962730",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NL_90_grind_3DGS:765371"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_43_FL_tegelvloer_creme_150x150 20_gen:962730",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_43_FL_tegelvloer_creme_150x150 20_gen:962753",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NL_90_grind_3DGS:765371"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_43_FL_tegelvloer_creme_150x150 20_gen:962764",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NL_90_grind_3DGS:765371"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_43_FL_tegelvloer_creme_150x150 20_gen:962775",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1017107",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1017141",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1030694",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NLRS_23_FL_gewapend beton buiten:784976"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:1107414",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NL_90_grind_3DGS:765371"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1107493",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1132564",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NLRS_23_FL_gewapend beton buiten:758399"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1132564",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:1132591",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:NLRS_21_WA_metselwerk 500:780213"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1133464",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:1142292",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1142449",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NLRS_23_FL_gewapend beton buiten:758399"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1142449",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  }
+]

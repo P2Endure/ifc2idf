@@ -1,0 +1,63 @@
+[	
+  {
+  	Gemaal_Weteringschans_Leidingen.ifc-> no. Elements: 457 & Gemaal_Weteringschans_Terrein.ifc-> no. Elements: 215
+  	no. clashes: 7
+  		no. clashes expected(based on navis): 0
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowTerminal",
+    "elementName1": "NLRS_74_PF_FB_toilet vloer_generiek_ISR:toilet_gen:1023689",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=50:1141133",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:NLRS_21_WA_metselwerk 500:780213"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=50:1141591",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:NLRS_21_WA_metselwerk 500:780213"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1154991",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:NLRS_21_WA_metselwerk 500:780213"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1154991",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_57_Luchtkanaal_recht:standaard:1157605",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowTerminal",
+    "elementName1": "NL_63_tl-lamp:NL_63_tl-lamp:1184420",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  }
+]

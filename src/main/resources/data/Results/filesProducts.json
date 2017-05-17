@@ -1,0 +1,54 @@
+[	Bouwkunding
+    "IfcBuildingElementProxy",
+    "IfcCurtainWall",
+    "IfcDoor",
+    "IfcFlowSegment",
+    "IfcMember",
+    "IfcOpeningElement",
+    "IfcRoof",
+    "IfcSite",
+    "IfcSlab",
+    "IfcWall",
+    "IfcWallStandardCase",
+    "IfcWindow"
+]
+
+[	Leidigen
+    "IfcBuildingElementProxy",
+    "IfcCovering",
+    "IfcDistributionPort",
+    "IfcFlowController",
+    "IfcFlowFitting",
+    "IfcFlowSegment",
+    "IfcFlowTerminal",
+    "IfcSite"
+]
+
+[	Rest
+    "IfcBeam",
+    "IfcBuildingElementProxy",
+    "IfcColumn",
+    "IfcCovering",
+    "IfcFlowSegment",
+    "IfcFurnishingElement",
+    "IfcMember",
+    "IfcRailing",
+    "IfcSite",
+    "IfcSlab",
+    "IfcStair",
+    "IfcStairFlight"
+]
+
+[	Terrein
+    "IfcBuildingElementProxy",
+    "IfcColumn",
+    "IfcCurtainWall",
+    "IfcOpeningElement",
+    "IfcRailing",
+    "IfcSite",
+    "IfcSlab",
+    "IfcWall",
+    "IfcWallStandardCase"
+]
+
+

@@ -1,0 +1,95 @@
+[
+  {
+  	Gemaal_Weteringschans_Rest.ifc-> no. Elements: 129 & Gemaal_Weteringschans_Terrein.ifc-> no. Elements: 215
+  	no: clashes: 11
+  	no. clashes expected(based on navis): 0
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType1": "IfcStairFlight",
+    "elementName1": "Assembled Stair:Stair:818034 Run 1",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType1": "IfcMember",
+    "elementName1": "Assembled Stair:Stair:818034 Stringer 1",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType1": "IfcMember",
+    "elementName1": "Assembled Stair:Stair:818034 Stringer 2",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType1": "IfcFurnishingElement",
+    "elementName1": "NLRS_73_FUS_UN_aanrechtblok_generiek_ISR:zonder bovenkastjes_gen:1021025",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType1": "IfcColumn",
+    "elementName1": "NLRS_28_SC_TLB_kolom buis_generiek_ISR:kolom_gen_ø355.6x12.5:1157611",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType1": "IfcBeam",
+    "elementName1": "NLRS_28_SF_LIB_balk HE_generiek_ISR:balk HE_gen_HEA180:1174905",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:NLRS_21_WA_metselwerk 500:780213"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType1": "IfcRailing",
+    "elementName1": "Railing:NLRS_44_hekwerk_entree_gemaal:820036",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType1": "IfcRailing",
+    "elementName1": "Railing:NLRS_44_hekwerk_entree_gemaal:823113",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType1": "IfcRailing",
+    "elementName1": "Railing:NLRS_44_RAI_LB_leuning rond 75_h1020_generiek_ISR:1017032",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcWall",
+    "elementName2": "Basic Wall:23_NL_stoeprand:838605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType1": "IfcRailing",
+    "elementName1": "Railing:NLRS_44_RAI_LB_leuning rond_dubbel_75_h1020_generiek_ISR_2:1184476",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NLRS_23_FL_gewapend beton buiten:784976"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType1": "IfcRailing",
+    "elementName1": "Railing:NLRS_44_RAI_LB_leuning rond_dubbel_75_h1020_generiek_ISR_2:1184476",
+    "file2": "Gemaal_Weteringschans_Terrein.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Floor:NLRS_23_FL_gewapend beton buiten:784976"
+  }
+]

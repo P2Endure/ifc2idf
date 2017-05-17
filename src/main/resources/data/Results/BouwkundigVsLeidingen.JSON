@@ -1,0 +1,2455 @@
+[
+  {
+  	Gemaal_Weteringschans_Bouwkundig.ifc-> no. Elements: 405 & Gemaal_Weteringschans_Leidingen.ifc-> no. Elements: 457
+  	no. clashes: 339
+  	no. clashes expected(based on navis): 134 
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:749788",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard geel:1007349"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:749789",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard geel:1007351"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:749789",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NLRS_74_PF_FB_toilet vloer_generiek_ISR:toilet_gen:1023689"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:749789",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowController",
+    "elementName2": "NLRS_56_PIA_UN_bekersifon_generiek_ISR:bekersifon_gen:1026266"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:749789",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:749789",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:749789",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_57_Luchtkanaal_recht:standaard:1157605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:751423",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1189965"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:751423",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1245695"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:751424",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter:standaard:1106262"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:751425",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1149337"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:751425",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop rhor_Luka:30º verzinkt_staal:1149340"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:751425",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_instort verloop rh_Luka:verzinkt_staal:1150128"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_roodwiel:standaard:1106276"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_generator:standaard:1106290"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1141115"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth dummy flenzen_ISR:dummy tbv pakkingdikte=10:1141170"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth dummy flenzen_ISR:dummy tbv pakkingdikte=10:1141249"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=50:1141591"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop rhor_Luka:30º verzinkt_staal:1146716"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1179341"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1183066"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1183180"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1183317"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1183385"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1189278"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1189371"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1189416"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1189481"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752371",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1189547"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106180"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106182"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106270"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_roodwiel:standaard:1106278"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1185222"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1188339"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1188607"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "Brandslanghaspel_open_aan muur:Brandslanghaspel_open_aan_muur_gemaal:1218757"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1229885"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard_klein:1232160"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1232511"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1232567"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1244029"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1244110"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE T-stuk_Geberit:standaard:1245146"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE verloopstuk_Geberit:standaard:1245155"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752372",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE verloopstuk_Geberit:standaard:1245220"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106146"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106148"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106150"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106154"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106166"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106170"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106174"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106178"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106182"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106184"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106190"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106194"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106196"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106200"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106202"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106204"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106206"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106208"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106232"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106234"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106236"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106238"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106240"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106242"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter:standaard:1106244"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter:standaard:1106246"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter:standaard:1106248"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter:standaard:1106250"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter:standaard:1106252"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter:standaard:1106262"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106266"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106268"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106270"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_roodwiel:standaard:1106272"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_roodwiel:standaard:1106274"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_roodwiel:standaard:1106278"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106280"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106282"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106284"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106286"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_generator:standaard:1106290"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_verloop:standaard:1106308"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_verloop:standaard:1106310"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_verloop:standaard:1106312"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_verloop:standaard:1106314"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_generator:standaard:1106369"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop_Luka:30º verzinkt_staal:1141057"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1141060"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1229885"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1232567"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1235691"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1236793"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1237064"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1237249"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1237372"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1237480"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1238213"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752373",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1238449"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106210"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_bolletje:standaard:1106212"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_bocht:standaard:1106226"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106240"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106264"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_roodwiel:standaard:1106276"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_grijze_kast:standaard:1106300"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_verloop:standaard:1106314"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_generator:standaard:1106371"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_turbine2:standaard:1106439"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_generator2:standaard:1132395"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1141063"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=10:1141068"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1141071"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard geel:1146094"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard geel:1146328"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1189547"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1189680"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1189905"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:752374",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1189931"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:752435",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1141071"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:752435",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=50:1141084"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:752435",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1141115"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:752435",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=50:1141127"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:752435",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=50:1141133"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:752435",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth dummy flenzen_ISR:dummy tbv pakkingdikte=10:1141170"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:752435",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth dummy flenzen_ISR:dummy tbv pakkingdikte=10:1141249"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:752435",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=50:1141591"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:752435",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop_Luka:30º verzinkt_staal:1146643"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:752435",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=10:1146714"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:752435",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop rhor_Luka:30º verzinkt_staal:1146716"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:753213",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_grijze_kast:standaard:1106294"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:753213",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_grijze_kast:standaard:1106298"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:753213",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_grijze_kast:standaard:1106300"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:753213",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_turbine2:standaard:1106439"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:753213",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_generator2:standaard:1132384"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:753213",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_generator2:standaard:1132395"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:753213",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1141063"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106138"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106166"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106208"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106210"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106234"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106238"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106240"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106264"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106266"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_roodwiel:standaard:1106272"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_roodwiel:standaard:1106274"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_roodwiel:standaard:1106276"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_generator:standaard:1106290"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_grijze_kast:standaard:1106294"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_grijze_kast:standaard:1106296"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_grijze_kast:standaard:1106298"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_grijze_kast:standaard:1106300"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_verloop:standaard:1106312"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_generator:standaard:1106371"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_turbine2:standaard:1106437"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_turbine2:standaard:1106439"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1141063"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=10:1141068"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=50:1141084"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1141115"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=50:1141127"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=50:1141133"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth dummy flenzen_ISR:dummy tbv pakkingdikte=10:1141170"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth dummy flenzen_ISR:dummy tbv pakkingdikte=10:1141249"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=50:1141591"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop_Luka:30º verzinkt_staal:1146643"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=10:1146714"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop rhor_Luka:30º verzinkt_staal:1146716"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1179341"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1183066"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1183180"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1183317"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1183385"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1188706"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1189278"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1189371"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1189416"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1189481"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:755593",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1189547"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop rhor_Luka:30º verzinkt_staal:1146708"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop rhor_Luka:30º verzinkt_staal:1146716"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rond verloop buis_Luka:verzinkt_staal:1146722"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop_Luka:30º verzinkt_staal:1149329"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1149337"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop rhor_Luka:30º verzinkt_staal:1149340"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_instort verloop rh_Luka:verzinkt_staal:1150128"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1154991"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop_Luka:30º verzinkt_staal:1161350"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth dummy flenzen_ISR:dummy tbv pakkingdikte=10:1162534"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1184319"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1184320"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 300_gen:757481",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1184386"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_kalkzandsteen 100_gen:758192",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard geel:1007351"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_kalkzandsteen 100_gen:758192",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NLRS_74_PF_FB_toilet vloer_generiek_ISR:toilet_gen:1023689"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_kalkzandsteen 100_gen:758192",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowController",
+    "elementName2": "NLRS_56_PIA_UN_bekersifon_generiek_ISR:bekersifon_gen:1026266"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_kalkzandsteen 100_gen:758192",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_kalkzandsteen 100_gen:758192",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_kalkzandsteen 100_gen:758192",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_57_Luchtkanaal_recht:standaard:1157605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_kalkzandsteen 100_gen:758196",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard geel:1007349"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:784176",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:784176",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:784176",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_57_Luchtkanaal_recht:standaard:1157605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:814701",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NLRS_74_PF_FB_toilet vloer_generiek_ISR:toilet_gen:1023689"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:814701",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NLRS_74_PF_FB_fontein_generiek_ISR:fontein_gen:1026264"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:814701",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowController",
+    "elementName2": "NLRS_74_PIA_UN_hoekstopkraan_generiek_ISR:hoekstopkraan_gen:1026265"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:814701",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowController",
+    "elementName2": "NLRS_56_PIA_UN_bekersifon_generiek_ISR:bekersifon_gen:1026266"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_20_WA_basis 100_gen:815034",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NLRS_74_PF_FB_toilet vloer_generiek_ISR:toilet_gen:1023689"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcSlab",
+    "elementName1": "Floor:NLRS_23_FL_gewapend beton 250_gen:816127",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1184420"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_trasraam_45_gen:819470",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_trasraam_45_gen:819614",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_57_Luchtkanaal_recht:standaard:1157605"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:962713",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NLRS_74_PF_FB_toilet vloer_generiek_ISR:toilet_gen:1023689"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_beplating 12_gen:962719",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NLRS_74_PF_FB_toilet vloer_generiek_ISR:toilet_gen:1023689"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:962720",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NLRS_74_PF_FB_toilet vloer_generiek_ISR:toilet_gen:1023689"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:962720",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowController",
+    "elementName2": "NLRS_56_PIA_UN_bekersifon_generiek_ISR:bekersifon_gen:1026266"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1029944",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NLRS_74_PF_FB_toilet vloer_generiek_ISR:toilet_gen:1023689"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1030691",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp_wand:NL_63_tl-lamp_wand:1191042"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1030691",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1238213"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1030691",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1238318"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1030691",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1238449"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1030692",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106154"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1030692",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter:standaard:1106302"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1030692",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106306"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1030693",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106156"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1030693",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106158"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1031011",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1238318"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 450_gen:1034423",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter:standaard:1106262"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 450_gen:1034423",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1238213"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 450_gen:1034893",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106234"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 450_gen:1035178",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106232"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1081521",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1081521",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_creme_10_gen:1086943",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106180"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132502",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106180"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132502",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106182"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132502",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard_klein:1232160"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106166"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106182"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106184"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106190"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106194"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106196"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106200"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106202"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106204"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106206"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106208"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106236"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106238"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106242"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106280"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106282"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106284"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1106286"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_generator:standaard:1106290"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_generator:standaard:1106369"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_afsluiter_sluitstuk:standaard:1229885"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132503",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1237064"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132504",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106210"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132504",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106240"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132504",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_generator:standaard:1106371"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132504",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_turbine2:standaard:1106439"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132504",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1141063"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132509",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk_met_verloop:standaard:1106240"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132509",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_generator:standaard:1106290"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_wit_10_gen:1132509",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_generator:standaard:1106371"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1132564",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop rhor_Luka:30º verzinkt_staal:1146708"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1132564",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop rhor_Luka:30º verzinkt_staal:1146716"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1132564",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rond verloop buis_Luka:verzinkt_staal:1146722"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1132564",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1154991"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1132564",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop_Luka:30º verzinkt_staal:1161350"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1132564",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth dummy flenzen_ISR:dummy tbv pakkingdikte=10:1162534"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1132564",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1184320"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1132564",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowTerminal",
+    "elementName2": "NL_63_tl-lamp:NL_63_tl-lamp:1184386"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1133465",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop rhor_Luka:30º verzinkt_staal:1146708"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1133465",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop rhor_Luka:30º verzinkt_staal:1146716"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1133465",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rond verloop buis_Luka:verzinkt_staal:1146722"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1133465",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rond koppelstuk tbv hulpstukken_Luka:verzinkt_staal:1146725"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWall",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1133465",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth dummy flenzen_ISR:dummy tbv pakkingdikte=10:1162534"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1134026",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloop rhor_Luka:30º verzinkt_staal:1149340"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_creme_10_gen:1134737",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106180"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_creme_10_gen:1134737",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard_klein:1232160"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_creme_10_gen:1134737",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1232567"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_creme_10_gen:1135052",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106182"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_creme_10_gen:1135052",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_53_Gemaal_t-stuk:standaard:1106184"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_creme_10_gen:1135052",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1232567"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_wandtegels_creme_10_gen:1135052",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard:1235691"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_22_WA_beton ihw 200_gen:1142449",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NLRS_57_DUF_UN_rechth verloopbocht-a_Luka:stromend ri=150:1154991"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Bouwkundig.ifc",
+    "elementType1": "IfcWallStandardCase",
+    "elementName1": "Basic Wall:NLRS_41_WA_glas_12_gen:1153048",
+    "file2": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType2": "IfcFlowFitting",
+    "elementName2": "NL_57_Luchtkanaal_recht:standaard:1157605"
+  }
+]

@@ -1,0 +1,439 @@
+[
+  {
+  	Gemaal_Weteringschans_Leidingen.ifc-> no. Elements: 457 & Gemaal_Weteringschans_Rest.ifc-> no. Elements: 129
+  	no. clashes: 54
+  		no. clashes expected(based on navis): 80
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard geel:1007340",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard geel:1007340",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard geel:1007346",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard geel:1007346",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard geel:1007349",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NLRS_52_PIF_UN_PE bocht_Geberit_Geberit:standaard geel:1007349",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_53_Gemaal_t-stuk:standaard:1106140",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcColumn",
+    "elementName2": "NLRS_28_SC_LIB_kolom HE_generiek_ISR:kolom HE profiel_gen_200:1254751"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_53_Gemaal_t-stuk:standaard:1106142",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcColumn",
+    "elementName2": "NLRS_28_SC_LIB_kolom HE_generiek_ISR:kolom HE profiel_gen_200:1245903"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_53_Gemaal_generator:standaard:1106290",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Fundatie_generator2:Fundatie_generator:1209425"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_53_Gemaal_generator:standaard:1106290",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "NL_23_RVS_fundering:NL_23_RVS_fundering:1257128"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_53_Gemaal_turbine2:standaard:1106324",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "NL_23_RVS_fundering:NL_23_RVS_fundering:1257348"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_53_Gemaal_generator:standaard:1106369",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Fundatie_generator1:Fundatie_generator:1209395"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_53_Gemaal_generator:standaard:1106369",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "NL_23_RVS_fundering:NL_23_RVS_fundering:1257348"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_53_Gemaal_generator:standaard:1106371",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Fundatie_generator3:Fundatie_generator:1209456"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_53_Gemaal_generator:standaard:1106371",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "NL_23_RVS_fundering:NL_23_RVS_fundering:1257400"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_53_Gemaal_turbine2:standaard:1106437",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "NL_23_RVS_fundering:NL_23_RVS_fundering:1257128"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_53_Gemaal_turbine2:standaard:1106439",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "NL_23_RVS_fundering:NL_23_RVS_fundering:1257400"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_53_Gemaal_generator2:standaard:1108188",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Fundatie_generator:Fundatie_generator:1208980"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_53_Gemaal_generator2:standaard:1132375",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Fundatie_generator1:Fundatie_generator:1209395"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_53_Gemaal_generator2:standaard:1132384",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Fundatie_generator2:Fundatie_generator:1209425"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_53_Gemaal_generator2:standaard:1132395",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcSlab",
+    "elementName2": "Fundatie_generator3:Fundatie_generator:1209456"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Rood",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcBeam",
+    "elementName2": "NLRS_28_SF_LIB_balk koker_generiek_ISR:balk_gen_K50x50x5:1145175"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Rood",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcBeam",
+    "elementName2": "NLRS_28_SF_LIB_balk koker_generiek_ISR:balk_gen_K50x50x5:1145177"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Rood",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Rood",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Rood",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Rood",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Rood",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Rood",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Rood"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcCovering",
+    "elementName1": "Pipe Insulation:Geel",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcCovering",
+    "elementName2": "Pipe Insulation:Geel"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_57_Luchtkanaal_recht:standaard:1157605",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcBeam",
+    "elementName2": "NLRS_28_SF_TLB_balk recht_generiek_ISR:balk hout_gen:821308"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_57_Luchtkanaal_recht:standaard:1157605",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcBeam",
+    "elementName2": "NLRS_28_SF_TLB_balk recht_generiek_ISR:balk hout_gen:821321"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_57_Luchtkanaal_recht:standaard:1157605",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcBeam",
+    "elementName2": "NLRS_28_SF_TLB_balk recht_generiek_ISR:balk hout_gen:821334"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_57_Luchtkanaal_recht:standaard:1157605",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcBeam",
+    "elementName2": "NLRS_28_SF_TLB_balk recht_generiek_ISR:balk hout_gen:821347"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_57_Luchtkanaal_recht:standaard:1157605",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcBeam",
+    "elementName2": "NLRS_28_SF_TLB_balk recht_generiek_ISR:balk hout_gen:821360"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcFlowFitting",
+    "elementName1": "NL_57_Luchtkanaal_recht:standaard:1157605",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcBeam",
+    "elementName2": "NLRS_28_SF_LIB_balk IPE_generiek_ISR:balk IPE_gen_200:1158054"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcBuildingElementProxy",
+    "elementName1": "NL_61_kabelgoot:Type 1:1173594",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcBuildingElementProxy",
+    "elementName2": "Wandtrap2:Wandtrap:1193368"
+  },
+  {
+    "file1": "Gemaal_Weteringschans_Leidingen.ifc",
+    "elementType1": "IfcBuildingElementProxy",
+    "elementName1": "NL_61_kabelgoot:Type 1:1173594",
+    "file2": "Gemaal_Weteringschans_Rest.ifc",
+    "elementType2": "IfcBuildingElementProxy",
+    "elementName2": "Wandtrap3:Wandtrap:1193381"
+  }
+]
