@@ -1,8 +1,8 @@
 
 
-## Clash Detection REST service
+## ifc to idf  REST service
 
-A clash detection REST Web Service built using *Spring Boot* framework and *Maven*.
+An ifc to idf REST Service built using *Spring Boot* framework and *Maven*.
 
 - use *Git* clone to make a clone of the repository.
 - Open a terminal
@@ -16,7 +16,7 @@ A clash detection REST Web Service built using *Spring Boot* framework and *Mave
 
 - api routes:
 
-##### Products:
+##### Products(Elements):
 
 -`/api/sendfile` - this is `POST` route. required parameters: key: `ifcFile` and the real if file as `Multipart` input. This will send the file to deserializer service reading the unique categories/products;
 
