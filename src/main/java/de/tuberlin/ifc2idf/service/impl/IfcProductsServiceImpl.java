@@ -9,8 +9,10 @@ import java.util.stream.Collectors;
 
 import org.bimserver.emf.IfcModelInterface;
 import org.bimserver.models.ifc2x3tc1.IfcProduct;
-import de.tuberlin.ifc2idf.service.IfcProductsService;
 import org.springframework.stereotype.Service;
+
+import de.tuberlin.ifc2idf.service.IfcProductsService;
+import de.tuberlin.ifc2idf.utilsIFC.UtilsIFC;
 
 @Service
 public class IfcProductsServiceImpl implements IfcProductsService {
@@ -24,6 +26,15 @@ public class IfcProductsServiceImpl implements IfcProductsService {
 
 		List<IfcProduct> ifcProducts = model.getAllWithSubTypes(IfcProduct.class);
 
+        for (IfcProduct item : ifcProducts) {
+            if (item.eClass().getName() == "IfcSpace" ||
+                item.eClass().getName().equalsIgnoreCase("IfcSpace")) {
+
+                System.out.println(item.eClass().getName());
+            }
+        }
+
+
 		if (!ifcProducts.isEmpty()){
 			List<IfcProduct> ifcProductTemp = ifcProducts;
 			Collections.sort(ifcProductTemp, new Comparator<IfcProduct> () {
@@ -33,7 +44,7 @@ public class IfcProductsServiceImpl implements IfcProductsService {
 			});
 
 			List<String> ifcCat = new ArrayList<String>();
-			for (int i = 0; i <ifcProductTemp.size(); i++){
+			for (int i = 0; i < ifcProductTemp.size(); i++){
 				IfcProduct ifcProdt = ifcProductTemp.get(i);
 					ifcCat.add(ifcProdt.eClass().getName());
 			}
