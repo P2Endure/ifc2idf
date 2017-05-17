@@ -35,15 +35,7 @@ public class IfcProductsServiceImpl implements IfcProductsService {
 			List<String> ifcCat = new ArrayList<String>();
 			for (int i = 0; i <ifcProductTemp.size(); i++){
 				IfcProduct ifcProdt = ifcProductTemp.get(i);
-				if (ifcProdt.eClass().getName() == "IfcBuilding" ||
-					ifcProdt.eClass().getName() == "IfcBuildingStorey" ||
-					ifcProdt.eClass().getName().equalsIgnoreCase("IfcBuildingStorey") ||
-					ifcProdt.eClass().getName().equalsIgnoreCase("IfcBuilding") ) {
-					System.out.println(ifcProdt.eClass().getName() + " was not included in the list of categories");
-
-				} else {
 					ifcCat.add(ifcProdt.eClass().getName());
-				}
 			}
 
 
