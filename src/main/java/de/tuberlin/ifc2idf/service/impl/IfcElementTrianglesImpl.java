@@ -8,18 +8,46 @@ import java.nio.IntBuffer;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.bimserver.emf.IfcModelInterface;
 import org.bimserver.models.geometry.GeometryData;
 import org.bimserver.models.geometry.GeometryInfo;
+import org.bimserver.models.ifc2x3tc1.IfcProduct;
+
+import de.tuberlin.ifc2idf.utilsIFC.UtilsIFC;
 import de.tuberlin.ifc2idf.geometryUtils.Triangles;
 import de.tuberlin.ifc2idf.service.IfcElementTriangles;
+
 import org.springframework.stereotype.Service;
 
 
 @Service
 public class IfcElementTrianglesImpl implements IfcElementTriangles {
-
+	
+	UtilsIFC utils = new UtilsIFC();
+	
 	@Override
-	public List<Triangles> getAllTriangles (GeometryInfo geometryInfo, double[] locationElement) {
+	public List<List<Triangles>> getIfcElements (IfcModelInterface ifcModel) {
+		List<List<Triangles>> ifcElementsGeometry = new ArrayList<List<Triangles>>();		
+		
+		if (ifcModel != null) {
+			List<IfcProduct> ifcProducts = ifcModel.getAllWithSubTypes(IfcProduct.class);
+			if (!ifcProducts.isEmpty()) {
+				for (int i = 0; i < ifcProducts.size(); i++){
+					IfcProduct ifcProduct = ifcProducts.get(i);
+					double[] locationProduct = utils.getElementLocation(ifcProduct);
+					GeometryInfo geometryInfo = ifcProduct.getGeometry();
+					if (geometryInfo != null) {
+						List<Triangles> elementTriangles = getAllTriangles(geometryInfo, locationProduct);
+						ifcElementsGeometry.add(elementTriangles);
+					}
+				}
+			}
+		}
+		System.out.println(ifcElementsGeometry);
+		return ifcElementsGeometry;
+	}
+	
+	private List<Triangles> getAllTriangles (GeometryInfo geometryInfo, double[] locationElement) {
 
 		List<Triangles> elementTriangles = new ArrayList<Triangles>();
 
