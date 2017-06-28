@@ -7,12 +7,24 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import org.bimserver.emf.IdEObject;
 import org.bimserver.emf.IfcModelInterface;
+import org.bimserver.models.ifc2x3tc1.IfcBuildingStorey;
+import org.bimserver.models.ifc2x3tc1.IfcLocalPlacement;
+import org.bimserver.models.ifc2x3tc1.IfcObjectDefinition;
+import org.bimserver.models.ifc2x3tc1.IfcObjectPlacement;
 import org.bimserver.models.ifc2x3tc1.IfcProduct;
+import org.bimserver.models.ifc2x3tc1.IfcRelContainedInSpatialStructure;
+import org.bimserver.models.ifc2x3tc1.IfcRelDecomposes;
+import org.bimserver.models.ifc2x3tc1.IfcSpace;
+import org.bimserver.models.ifc2x3tc1.IfcSpatialStructureElement;
+import org.eclipse.emf.common.util.EList;
 import org.springframework.stereotype.Service;
 
+import com.google.common.collect.BiMap;
+
 import de.tuberlin.ifc2idf.service.IfcProductsService;
-import de.tuberlin.ifc2idf.utilsIFC.UtilsIFC;
+import de.tuberlin.ifc2idf.utilsIFC.UtilsIFC;;
 
 @Service
 public class IfcProductsServiceImpl implements IfcProductsService {
@@ -20,19 +32,30 @@ public class IfcProductsServiceImpl implements IfcProductsService {
 
 	@Override
 	public HashMap<Object, Integer> getAllElements(IfcModelInterface model) {
-
+		
+//		UtilsIFC utils = new UtilsIFC();
+		
 		List<Object> uniqueProducts = new ArrayList<Object>();
 		HashMap<Object, Integer> getTypesandNo = new HashMap<Object, Integer>();
 
 		List<IfcProduct> ifcProducts = model.getAllWithSubTypes(IfcProduct.class);
-
-        for (IfcProduct item : ifcProducts) {
-            if (item.eClass().getName() == "IfcSpace" ||
-                item.eClass().getName().equalsIgnoreCase("IfcSpace")) {
-
-                System.out.println(item.eClass().getName());
-            }
-        }
+		List<IfcSpace> spaces = model.getAll(IfcSpace.class);
+		
+		
+		if (!spaces.isEmpty()){
+			System.out.println(spaces.size());
+			for (IfcSpace ifcSpace : spaces){
+				System.out.println("what a surprise: " + ifcSpace.getBoundedBy().size());
+				System.out.println("what a surprise: " + ifcSpace.getBoundedBy().get(0).getName());
+				List<IfcProduct> spaceElem = getSpaceElements(model, ifcSpace);
+//				System.out.println(spaceElem.size());
+//				if (spaceElem.size() != 0) {
+//						System.out.println(spaceElem.get(0).getName());
+//				}
+			}
+		} else {
+			System.out.println("no spaces in this model");
+		}
 
 
 		if (!ifcProducts.isEmpty()){
@@ -66,13 +89,39 @@ public class IfcProductsServiceImpl implements IfcProductsService {
 				 	}
 			}
 
-			System.out.println("Total number of elements in the model: "+ifcCat.size() + " ---elements per type: " + getTypesandNo);
-			System.out.println(uniqueProducts);
-			System.out.println(uniqueProducts.size());
+//			System.out.println("Total number of elements in the model: "+ifcCat.size() + " ---elements per type: " + getTypesandNo);
+//			System.out.println(uniqueProducts);
+//			System.out.println(uniqueProducts.size());
 		} else {
 			System.out.println("Sorry! the ifc files was not read");
 		}
 
 		return getTypesandNo;
+	}
+	
+	private static List<IfcProduct> getSpaceElements (IfcModelInterface model, IfcSpace ifcSpace) {
+		
+		List<IfcProduct> ifcElements = new ArrayList<IfcProduct>();
+		BiMap<Long, ? extends IdEObject> objects = model.getObjects();
+		IfcSpatialStructureElement ifcSpatialStructureElement = (IfcSpatialStructureElement) ifcSpace;
+		
+//		System.out.println("elevation of the Storey"+ ifcStoreyName.getName()+ " is " + ifcStoreyName.getElevation());
+		
+		
+		
+		for (IfcRelContainedInSpatialStructure ifcRelContainedInSpatialStructure : ifcSpatialStructureElement.getContainsElements()) { 
+			objects.remove(ifcRelContainedInSpatialStructure.getOid());
+			for (IfcProduct ifcProduct : ifcRelContainedInSpatialStructure.getRelatedElements()) {
+				ifcElements.add(ifcProduct);
+			}
+		}
+
+		for (IfcRelDecomposes ifcRelDecomposes : ifcSpace.getIsDecomposedBy())	{ 
+			for (IfcObjectDefinition ifcObjectDefinition : ifcRelDecomposes.getRelatedObjects()) {
+				ifcElements.add((IfcProduct) model.get(ifcObjectDefinition.getOid()));
+			}
+		}
+		
+		return ifcElements;
 	}
 }

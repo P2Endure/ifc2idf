@@ -15,21 +15,23 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
+import de.tuberlin.ifc2idf.geometryUtils.Triangles;
 import de.tuberlin.ifc2idf.service.IfcDeserializerService;
 import de.tuberlin.ifc2idf.service.IfcFileTempStoreService;
+import de.tuberlin.ifc2idf.service.IfcElementTriangles;
 
 @RestController
 public class IfcExportCtrl {
-	
+
 	private IfcModelInterface ifcModel;
-	
+
 	@Autowired
     public void setIfcUploadService(IfcFileTempStoreService ifcTempStoreService) {
         this.ifcTempStoreService = ifcTempStoreService;
     }
-	
+
 	private IfcFileTempStoreService ifcTempStoreService;
-	
+
 	@Autowired
 	public void getIfcDeserialized(IfcDeserializerService ifcDeserializerService) {
 	        this.ifcDeserializerService = ifcDeserializerService;
@@ -37,7 +39,13 @@ public class IfcExportCtrl {
 
 	private IfcDeserializerService  ifcDeserializerService;
 
-	
+    @Autowired
+    public void getTriangles(IfcElementTriangles ifcElementsTriangles) {
+        this.ifcElementsTriangles = ifcElementsTriangles;
+    }
+
+    private IfcElementTriangles ifcElementsTriangles;
+
 	@RequestMapping (
 			value = "api/sendifc",
 			method = RequestMethod.POST)
@@ -47,7 +55,7 @@ public class IfcExportCtrl {
 		String ifcTempPath = ifcTempStoreService.getFileTempPath(ifcFile);
 
 		IfcModelInterface model = ifcDeserializerService.getIfcDeserialized(ifcTempPath, true);
-		
+
 		if (model == null) {
 			return new ResponseEntity<IfcModelInterface>(HttpStatus.NO_CONTENT);
 		}
@@ -58,26 +66,26 @@ public class IfcExportCtrl {
 		return new ResponseEntity<IfcModelInterface>(HttpStatus.OK);
 
 	}
-	
+
 	//this should be the controller to get the geometry of the files
 	@RequestMapping (
 			value = "api/ifcElements",
 			method = RequestMethod.GET,
 			produces = MediaType.APPLICATION_JSON_VALUE)
-	public ResponseEntity<List<String>> getIfcModelElements () {
+	public ResponseEntity<List<List<Triangles>>> getIfcModelElements () {
 
-		List<String> types = new ArrayList<String>();
+		List<List<Triangles>> types = new ArrayList<List<Triangles>>();
 
 		if (ifcModel == null) {
-			return new ResponseEntity<List<String>>(HttpStatus.NO_CONTENT);
+			return new ResponseEntity<List<List<Triangles>>>(HttpStatus.NO_CONTENT);
 		} else {
-			//do something here...call the service to get the triangles
+            types = ifcElementsTriangles.getIfcElements(ifcModel);
 		}
 
-		return new ResponseEntity<List<String>>(types, HttpStatus.OK);
+            return new ResponseEntity<List<List<Triangles>>>(types, HttpStatus.OK);
 
-	}
-	
+        }
+
 	//this should be the controller to export the idf file
 	//not sure if the output will be JSON - or maybe will be
 	@RequestMapping (
@@ -97,5 +105,5 @@ public class IfcExportCtrl {
 		return new ResponseEntity<List<String>>(types, HttpStatus.OK);
 
 	}
-	
+
 }

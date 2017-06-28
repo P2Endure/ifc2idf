@@ -4,7 +4,7 @@ package de.tuberlin.ifc2idf.service;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
-import java.util.HashMap;
+import java.util.ArrayList;
 import java.util.List;
 
 import org.bimserver.emf.IfcModelInterface;
@@ -27,11 +27,7 @@ public class IfcUnitTests extends AbstractUnitTest {
 	private UtilsIFC ifcUtils;
 
 	private String ifcFilePath1 = new String();
-	private String ifcFilePath2 = new String();
-	private String ifcFileName1 = new String();
-	private String ifcFileName2 = new String();
 	private IfcModelInterface model1;
-	private IfcModelInterface model2;
 
 	@Before
 	public void setupServices () {
@@ -55,33 +51,17 @@ public class IfcUnitTests extends AbstractUnitTest {
 	public void testProductsService () throws Exception{
 
 
-		ifcFilePath1 = "src/test/data/ifc/Gemaal_Weteringschans_Bouwkundig.ifc";
+		ifcFilePath1 = "src/test/data/small_ifc/wall_Arch.ifc";
 
-	    HashMap<Object, Integer> testList = new HashMap<Object, Integer>();
+	    List<List<Triangles>> testList = new ArrayList<List<Triangles>>();
 
 	    model1 = ifcDeserializerService.getIfcDeserialized(ifcFilePath1, false);
-
-	    testList = ifcProductsService.getAllElements(model1);
-
-	    HashMap<Object, Integer> testList2 = new HashMap<Object, Integer>();
-
-	    testList2.put("IfcFlowSegment", 6);
-	    testList2.put("IfcWall", 9);
-	    testList2.put("IfcSite", 1);
-	    testList2.put("IfcWindow", 36);
-	    testList2.put("IfcCurtainWall", 23);
-	    testList2.put("IfcRoof", 2);
-	    testList2.put("IfcWallStandardCase", 155);
-	    testList2.put("IfcBuildingElementProxy", 3);
-	    testList2.put("IfcOpeningElement", 47);
-	    testList2.put("IfcMember", 65);
-	    testList2.put("IfcDoor", 12);
-	    testList2.put("IfcSlab", 43);
-
-		assertNotNull(ifcProductsService);
-		assertNotNull(testList);
+	    assertNotNull(model1);
+	    testList = ifcElementsTriangles.getIfcElements(model1);
+	    assertNotNull(testList);
+	    System.out.println(testList);
+		
 		assertEquals(12, testList.size());
-		assertEquals(testList2, testList);
 	}
 
 }

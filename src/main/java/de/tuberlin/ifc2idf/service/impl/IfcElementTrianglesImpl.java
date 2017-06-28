@@ -43,7 +43,6 @@ public class IfcElementTrianglesImpl implements IfcElementTriangles {
 				}
 			}
 		}
-		System.out.println(ifcElementsGeometry);
 		return ifcElementsGeometry;
 	}
 	
@@ -83,7 +82,6 @@ public class IfcElementTrianglesImpl implements IfcElementTriangles {
 				}
 			}
 		}
-//		System.out.print("size of the elementTrinagles object is: "+ elementTriangles.size());
 		return elementTriangles;
 	}
 
