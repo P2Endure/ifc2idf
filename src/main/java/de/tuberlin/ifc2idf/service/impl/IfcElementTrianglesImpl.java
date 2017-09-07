@@ -34,6 +34,9 @@ public class IfcElementTrianglesImpl implements IfcElementTriangles {
 			if (!ifcProducts.isEmpty()) {
 				for (int i = 0; i < ifcProducts.size(); i++){
 					IfcProduct ifcProduct = ifcProducts.get(i);
+					
+					System.out.println("connected to this: " + ifcProduct.getName());
+					System.out.println("is this: " + ifcProduct.getObjectPlacement().getPlacesObject().get(0).getObjectType());
 					double[] locationProduct = utils.getElementLocation(ifcProduct);
 					GeometryInfo geometryInfo = ifcProduct.getGeometry();
 					if (geometryInfo != null) {
